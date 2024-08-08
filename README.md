@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanmay-Sherekar
 - 👀 I’m always passionate to learn new things.
 - 🌱 I’m currently learning the trending skills which requires in the tech industry
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on devops projects
 - 📫 You can reach me through linked in and other portals
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
