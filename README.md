@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @Tanmay-Sherekar
-- 👀 I’m always passionate to learn new things.
-- 🌱 I’m currently learning the trending skills which requires in the tech industry
-- 💞️ I’m looking to collaborate on devops projects
-- 📫 You can reach me through linked in and other portals
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+## 👋 Hi, I'm Tanmay
 
-<!---
-Tanmay-Sherekar/Tanmay-Sherekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 PHP Developer | Laravel | DevOps Enthusiast  
+💻 Building scalable web apps & automated CI/CD pipelines  
+
+---
+
+### 🧑‍💻 About Me
+- PHP & Laravel developer with DevOps skills
+- Experience with Docker, Jenkins, GitHub Actions
+- Interested in Cloud & Infrastructure Automation
+- Actively looking for PHP / DevOps opportunities
+
+---
+
+### 🛠 Tech Stack
+**Backend:** PHP, Laravel, CodeIgniter  
+**Frontend:** HTML, CSS, JavaScript  
+**DevOps:** Docker, Jenkins, GitHub Actions  
+**Cloud:** AWS (EC2, ECS basics)  
+**Database:** MySQL  
+**Tools:** Git, Linux  
+
+---
+
+### 🚀 Projects
+- 🔹 Laravel API with CI/CD (GitHub Actions)
+- 🔹 Dockerized PHP Application
+- 🔹 AWS ECS Deployment using Jenkins
+- 🔹 Terraform Infrastructure Automation
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: yourmail@gmail.com
+
