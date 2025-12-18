@@ -32,6 +32,5 @@
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: yourmail@gmail.com
+- LinkedIn: https://linkedin.com/in/tanmay-sherekar
 
